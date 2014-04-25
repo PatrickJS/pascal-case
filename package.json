@@ -25,6 +25,7 @@
     "mocha": "^1.18.2"
   },
   "dependencies": {
-    "camel-case": "^0.1.0"
+    "camel-case": "^0.1.0",
+    "upper-case-first": "0.0.1"
   }
 }
